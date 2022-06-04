@@ -2,4 +2,3 @@
 	path = src/core
 	branch = master
 	url = https://github.com/zaykhere/adapt-contrib-core
- 	installBranch = v6.8.0
