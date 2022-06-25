@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "adapt-contrib-narrative": "*",
+        "adapt-contrib-accordion": "*",
+        "adapt-contrib-boxMenu": "*"
+    }
+}
